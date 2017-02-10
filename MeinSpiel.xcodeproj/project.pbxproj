@@ -12,7 +12,6 @@
 		E665D3D91E4D0DBF0013478C /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = E665D3D81E4D0DBF0013478C /* Actions.sks */; };
 		E665D3DB1E4D0DBF0013478C /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = E665D3DA1E4D0DBF0013478C /* GameScene.swift */; };
 		E665D3DD1E4D0DBF0013478C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E665D3DC1E4D0DBF0013478C /* ViewController.swift */; };
-		E665D3DF1E4D0DBF0013478C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E665D3DE1E4D0DBF0013478C /* Assets.xcassets */; };
 		E665D3E21E4D0DBF0013478C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E665D3E01E4D0DBF0013478C /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -23,7 +22,6 @@
 		E665D3D81E4D0DBF0013478C /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
 		E665D3DA1E4D0DBF0013478C /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		E665D3DC1E4D0DBF0013478C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		E665D3DE1E4D0DBF0013478C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E665D3E11E4D0DBF0013478C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E665D3E31E4D0DBF0013478C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -63,7 +61,6 @@
 				E665D3D81E4D0DBF0013478C /* Actions.sks */,
 				E665D3DA1E4D0DBF0013478C /* GameScene.swift */,
 				E665D3DC1E4D0DBF0013478C /* ViewController.swift */,
-				E665D3DE1E4D0DBF0013478C /* Assets.xcassets */,
 				E665D3E01E4D0DBF0013478C /* Main.storyboard */,
 				E665D3E31E4D0DBF0013478C /* Info.plist */,
 			);
@@ -130,7 +127,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				E665D3D71E4D0DBF0013478C /* GameScene.sks in Resources */,
-				E665D3DF1E4D0DBF0013478C /* Assets.xcassets in Resources */,
 				E665D3D91E4D0DBF0013478C /* Actions.sks in Resources */,
 				E665D3E21E4D0DBF0013478C /* Main.storyboard in Resources */,
 			);
